@@ -84,10 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "permanent researcher"
   location         : "Rennes, France"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Univ Rennes, CNRS, Inria, IRISA"
   googlescholar    : "https://scholar.google.com/citations?user=jywIaDoAAAAJ&hl=en"
-  email            :
+  email            : "annelie.heuser {at} irisa.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
