@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Annelie Heuser"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Annelie Heuser"
-description              : &description "permanent reseracher, Univ Rennes, CNRS, Inria, IRISA, Rennes, France"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://aXnXlXe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aXnXlXe/aXnXlXe.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Annelie Heuser"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "permanent researcher"
-  location         : "Rennes, France"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "annelie.heuser {at} irisa.fr
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
