@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Annelie Heuser"
-  avatar           : "images/ah_probe.png"
+  avatar           : "ah_probe.png"
   bio              : "permanent researcher"
   location         : "Rennes, France"
   googlescholar    : "https://scholar.google.com/citations?user=jywIaDoAAAAJ&hl=en"
