@@ -26,7 +26,8 @@ I hold a diploma in mathematics (with a focus on computer science) from the Tech
 # Projects / fundings
 
 - PEC PhD funding (2x),
-- ANR JCJC (PI),
+- ANR JCJC (PI): AHMA, Automated Hardware Malware Analysis
+- ANR PRGE (local PI): IDROMEL
 - l’INS2I JCJC (PI) (travel expenses), Rennes
 - Metropole (PI) (startup lab equipment),
 - Participant in European H2020 project TEAMPLAY,
