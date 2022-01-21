@@ -10,6 +10,7 @@ redirect_from:
 
 I am a permanent researcher at CNRS, IRISA in Rennes, France.
 My main interests lie in the security of embedded devices, especially combined with side-channel information/ attacks, and machine and deep learning algorithms, and malware. 
+
 In the end of 2015, I completed my PhD at Telecom ParisTech (COMELEC) under the supervision of Olivier Rioul and Sylvain Guilley.
 Before, I was working at the Center of Advanced Security Research Darmstadt (CASED) as a researcher.
 I hold a diploma in mathematics (with a focus on computer science) from the Technische Universität Darmstadt.
