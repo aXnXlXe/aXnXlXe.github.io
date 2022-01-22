@@ -4,7 +4,7 @@ title: "AHMA"
 permalink: /ahma/
 author_profile: true
 redirect_from:
-  - /ahma.html
+  - /test
 ---
 
 {% include base_path %}
