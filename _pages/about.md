@@ -15,7 +15,7 @@ Before, I was working at the Center of Advanced Security Research Darmstadt (CAS
 I hold a diploma in mathematics (with a focus on computer science) from the Technische Universität Darmstadt.
 
 
-# PhD students/ Post-docs /...
+# Supervisions
 - Christophe Genevey-Metat (PhD, since 2018), Deep learning techniques for side-channel analysis
 - Lamine Noureddine (PhD, since 2017), Packer detection / classification 
 - Cassius Puodzius (PhD, since 2019), Threat intelligence
