@@ -15,12 +15,13 @@ Before, I was working at the Center of Advanced Security Research Darmstadt (CAS
 I hold a diploma in mathematics (with a focus on computer science) from the Technische Universität Darmstadt.
 
 
-# PhD students/ Post-docs 
+# PhD students/ Post-docs /...
 - Christophe Genevey-Metat (PhD, since 2018), Deep learning techniques for side-channel analysis
 - Lamine Noureddine (PhD, since 2017), Packer detection / classification 
 - Cassius Puodzius (PhD, since 2019), Threat intelligence
 - Duy-Phuc Pham (PhD, since 2019), Malware classification through side-channel information
 - Damien Marion (PostDoc, since 2020), Malware classification through side-channel information
+- 3 awesome kids at home (since 2015, since 2017, since 2021)
 
 # Projects / fundings
 
@@ -32,4 +33,8 @@ I hold a diploma in mathematics (with a focus on computer science) from the Tech
 - Participant in European H2020 project TEAMPLAY,
 - COST Cryptacus funding to visit Universitat Barcelona
 
-
+# Awards
+* Google European Doctoral Fellowship in Privacy 2013, 
+* best student paper award (International Conference on Applied Cryptography and Network Security 2014),
+* best phd thesis award Telecom ParisTech, 2015, 
+* best phd thesis award l’Institut Mines-Télécom, 2015.
