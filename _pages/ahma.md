@@ -17,6 +17,8 @@ The Internet of Things (IoT) will influence the majority of our daily life’s i
 * Start: mid March 2019
 * duration: 3 years
 * funding: 342 518,98 Euro
+* Post-Doc: Damien Marion
+* PhD: Duy-Phuc Pham
 
 ### News
 * soon to be filled!
