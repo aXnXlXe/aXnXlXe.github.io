@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "AHMA"
+title: "AHMA : Automated Hardware Malware Analaysis"
 permalink: /ahma/
 author_profile: true
 redirect_from:
