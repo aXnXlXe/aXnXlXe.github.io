@@ -16,12 +16,14 @@ I hold a diploma in mathematics (with a focus on computer science) from the Tech
 
 *I am currently in maternity leave, answering emails may be a bit delayed.*
 
-# Supervisions
+# Team / supervisions
 - Christophe Genevey-Metat (PhD, since 2018), Deep learning techniques for side-channel analysis
 - Lamine Noureddine (PhD, since 2017), Packer detection / classification 
 - Cassius Puodzius (PhD, since 2019), Threat intelligence
-- Duy-Phuc Pham (PhD, since 2019), Malware classification through side-channel information
-- Damien Marion (PostDoc, since 2020), Malware classification through side-channel information
+- [Duy-Phuc Pham](https://phdphuc.github.io/) (PhD, since 2019), Malware classification through side-channel information
+- [Damien Marion](https://damien-marion.github.io/) (PostDoc, since 2020), Malware classification through side-channel information
+- Agathe Cheriere (PhD, since 2020), Code-based side-channel analysis
+- [Nicolas Aragon](http://nicolas-aragon.fr/) (Post-Doc, since 2021), Code-based side-channel analysis
 - 3 awesome kids at home (since 2015, since 2017, since 2021)
 
 # Projects / fundings
