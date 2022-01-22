@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The Internet of Things (IoT) will influence the majority of our daily life’s infrastructure. While efficiency and diffusion of IoT are increasing, security threats are becoming a far-reaching problem. Here we are particularly concentrating on ensuring the security of IoT nodes against malware threats, which may seriously disrupt daily life and economic activity or even reveal privacy critical data of users. As state-of-the-art software monitoring techniques (static or dynamic) can still be circumvented by sophisticated attackers, we propose an automated hardware malware analysis (AHMA) framework that is non-intrusive and cannot easily be controlled or hidden by the malware attacker. AHMA uses side-channel information of the underlying hardware IoT device to detect if a device is infected by malware (mutated or even unknown) or in its typical running state. Our novel framework is of high importance and impact for industries, and thus for users benefitting from increasing protection.
+
 ### Details
 
 * ANR JCJC, PI: Annelie Heuser, CNRS, IRISA
