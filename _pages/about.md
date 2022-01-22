@@ -14,6 +14,7 @@ In the end of 2015, I completed my PhD at Telecom ParisTech (COMELEC) under the 
 Before, I was working at the Center of Advanced Security Research Darmstadt (CASED) as a researcher.
 I hold a diploma in mathematics (with a focus on computer science) from the Technische Universität Darmstadt.
 
+*I am currently in maternity leave, answering emails may be a bit delayed.*
 
 # Supervisions
 - Christophe Genevey-Metat (PhD, since 2018), Deep learning techniques for side-channel analysis
