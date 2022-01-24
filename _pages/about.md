@@ -41,4 +41,4 @@ I hold a diploma in mathematics (with a focus on computer science) from the Tech
 * best student paper award, ACNS 2014,
 * best phd thesis award Telecom ParisTech, 2015, 
 * best phd thesis award l’Institut Mines-Télécom, 2015,
-* best paper award, ARES 2022.
+* best paper award, ARES 2021.
