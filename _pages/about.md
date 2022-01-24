@@ -38,6 +38,7 @@ I hold a diploma in mathematics (with a focus on computer science) from the Tech
 
 # Awards
 * Google European Doctoral Fellowship in Privacy 2013, 
-* best student paper award (International Conference on Applied Cryptography and Network Security 2014),
+* best student paper award, ACNS 2014,
 * best phd thesis award Telecom ParisTech, 2015, 
-* best phd thesis award l’Institut Mines-Télécom, 2015.
+* best phd thesis award l’Institut Mines-Télécom, 2015,
+* best paper award, ARES 2022.
