@@ -24,6 +24,7 @@ I hold a diploma in mathematics (with a focus on computer science) from the Tech
 - [Damien Marion](https://damien-marion.github.io/) (PostDoc, since 2020), Malware classification through side-channel information
 - Agathe Cheriere (PhD, since 2020), Code-based side-channel analysis
 - [Nicolas Aragon](http://nicolas-aragon.fr/) (Post-Doc, since 2021), Code-based side-channel analysis
+- [Alexandre Gonzalvez](https://agonzalv.github.io/)(Post-Doc, since 2021), ransomware analysis
 - 3 awesome kids at home (since 2015, since 2017, since 2021)
 
 # Projects / fundings
